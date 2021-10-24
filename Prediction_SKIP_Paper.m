@@ -29,7 +29,7 @@ n = length(log_PGA_vector);
 
 %% SVD Input Parameters!!
 
-method_SVD = 'Lanczos'; % Halko/Lanczos
+method_SVD = 'Halko'; % Halko/Lanczos
 
 % Parameters in Fast_SVD_Improved_function
 
